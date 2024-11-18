@@ -14,7 +14,7 @@ Soy un entusiasta de la **analítica de datos** y la **programación**, apasiona
 ## 🛠️ Habilidades Técnicas
 
 - **Lenguajes de Programación**: Python, R, SQL, Stata 
-- **Herramientas de Análisis**: Pandas, NumPy, Scikit-learn, TensorFlow
+- **Herramientas de Análisis**: Pandas, NumPy, Scikit-learn
 - **Visualización**: Streamlit, Power BI
 - **Control de Versiones**: Git, GitHub
 - **Otros**: Excel avanzado
